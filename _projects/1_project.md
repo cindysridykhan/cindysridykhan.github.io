@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Instruct StoryTeller
+description: In this project, I trained and LoRA finetuned from scratch an instruction following LLM in native PyTorch.
+img: assets/gif/story1500.gif
 importance: 1
-category: work
+redirect: https://github.com/cindysridykhan/instruct_storyteller_tinyllama2
+github: https://github.com/cindysridykhan/instruct_storyteller_tinyllama2
+category: projects
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 

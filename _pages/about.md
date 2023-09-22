@@ -20,8 +20,8 @@ Currently looking for a Machine Learning Engineer / Data Scientist position in B
 
 
 Previously:
-- Data Scientist at [Cdiscount](https://www.cdiscount.com) (e-commerce)
-- AI Developer Intern at Wintics (computer vision startup)
-- Research Intern at [CentraleSupelec](https://www.centralesupelec.fr/) with Prof. Richard Combes (multi-armed bandits)
-- Research Assistant at inria Lille, SequeL team with Prof. Emilie Kaufmann (multi-armed bandits)
-- Research Intern at Heriot-Watt University with Prof. Marcelo Pereyra (image processing with Bayesian statistics)
+- Machine Learning Engineer at [Cdiscount](https://www.cdiscount.com) working on **recommender system**, **ads bidding system**
+- AI Developer Intern at [Wintics](https://wintics.com/en/) (**computer vision** startup)
+- Research Intern at [CentraleSupelec](https://www.centralesupelec.fr/) with [Prof. Richard Combes](https://scholar.google.fr/citations?user=ojq6NbAAAAAJ&hl) (multi-armed bandits)
+- Research Assistant at [Inria Lille, SequeL team](https://team.inria.fr/sequel/) with [Prof. Emilie Kaufmann](https://emiliekaufmann.github.io/index.html) (multi-armed bandits)
+- Research Intern at Heriot-Watt University with [Prof. Marcelo Pereyra](https://www.macs.hw.ac.uk/~mp71/about.html) (image processing with Bayesian statistics)

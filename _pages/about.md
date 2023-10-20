@@ -16,8 +16,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Currently looking for a Machine Learning Engineer / Data Scientist position in Boston, Massachusetts.
+Hi, I'm Cindy. Nice to meet you!
 
+I am currently in Boston, working on LLMs and computer vision projects at the [Recurse Center](https://www.recurse.com/), while looking for a Machine Learning Engineer position.
 
 Previously:
 - Machine Learning Engineer at [Cdiscount](https://www.cdiscount.com) working on **recommender system**, **ads bidding system**

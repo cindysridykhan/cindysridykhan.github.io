@@ -1,0 +1,55 @@
+---
+---
+
+@string{aps = {American Physical Society,}}
+
+
+@InProceedings{pmlr-v117-trinh20a,
+  title = 	 {Solving Bernoulli Rank-One Bandits with Unimodal Thompson Sampling},
+  author =       {Trinh, Cindy and Kaufmann, Emilie and Vernade, Claire and Combes, Richard},
+  booktitle = 	 {Proceedings of the 31st International Conference  on Algorithmic Learning Theory},
+  pages = 	 {862--889},
+  year = 	 {2020},
+  editor = 	 {Kontorovich, Aryeh and Neu, Gergely},
+  volume = 	 {117},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {08 Feb--11 Feb},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v117/trinh20a/trinh20a.pdf},
+  url = 	 {https://proceedings.mlr.press/v117/trinh20a.html},
+  abstract = 	 {<em>Stochastic Rank-One Bandits</em> are a simple framework for regret minimization problems over rank-one matrices of arms. The initially proposed algorithms are proved to have logarithmic regret, but do not match the existing lower bound for this problem. We close this gap by first proving that rank-one bandits are a particular instance of unimodal bandits, and then providing a new analysis of  Unimodal Thompson Sampling (UTS). We prove an asymptotically optimal regret bound on the frequentist regret of UTS and we support our claims with simulations showing the significant improvement of our method compared to the state-of-the-art.},
+  presentation={alt2020.pdf},
+  preview={rank1bandits.png}
+}
+
+
+@InProceedings{pmlr-v178-huang22a,
+  title = 	 {Towards Optimal Algorithms for Multi-Player Bandits without Collision Sensing Information},
+  author =       {Huang, Wei and Combes, Richard and Trinh, Cindy},
+  booktitle = 	 {Proceedings of Thirty Fifth Conference on Learning Theory},
+  pages = 	 {1990--2012},
+  year = 	 {2022},
+  editor = 	 {Loh, Po-Ling and Raginsky, Maxim},
+  volume = 	 {178},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {02--05 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v178/huang22a/huang22a.pdf},
+  url = 	 {https://proceedings.mlr.press/v178/huang22a.html},
+  abstract = 	 {We propose a novel algorithm for multi-player multi-armed bandits without collision sensing information. Our algorithm circumvents two problems shared by all state-of-the-art algorithms: it does not need as an input a lower bound on the minimal expected reward of an arm, and its performance does not scale inversely proportionally to the minimal expected reward. We prove a theoretical regret upper bound to justify these claims. We complement our theoretical results with numerical experiments, showing that the proposed algorithm outperforms state-of-the-art in practice.},
+  preview={huang.png}
+}
+
+@inproceedings{MLSYS2022_a2b2702e,
+ author = {Janapa Reddi, Vijay and Kanter, David and Mattson, Peter and Duke, Jared and Nguyen, Thai and Chukka, Ramesh and Shiring, Ken and Tan, Koan-Sin and Charlebois, Mark and Chou, William and El-Khamy, Mostafa and Hong, Jungwook and St John, Tom and Trinh, Cindy and Buch, Michael and Mazumder, Mark and Markovic, Relja and Atta, Thomas and Cakir, Fatih and Charkhabi, Masoud and Chen, Xiaodong and Chiang, Cheng-Ming and Dexter, Dave and Heo, Terry and Schmuelling, Guenther and Shabani, Maryam and Zika, Dylan},
+ booktitle = {Proceedings of Machine Learning and Systems},
+ editor = {D. Marculescu and Y. Chi and C. Wu},
+ pages = {352--369},
+ title = {MLPerf Mobile Inference Benchmark: An Industry-Standard Open-Source Machine Learning Benchmark for On-Device AI},
+ pdf = {https://proceedings.mlsys.org/paper_files/paper/2022/file/a2b2702ea7e682c5ea2c20e8f71efb0c-Paper.pdf},
+ url = {https://proceedings.mlsys.org/paper_files/paper/2022/hash/a2b2702ea7e682c5ea2c20e8f71efb0c-Abstract.html},
+ volume = {4},
+ year = {2022},
+abstract = {This paper presents the first industry-standard open-source machine learning (ML) benchmark to allow perfor mance and accuracy evaluation of mobile devices with different AI chips and software stacks. The benchmark draws from the expertise of leading mobile-SoC vendors, ML-framework providers, and model producers. It comprises a suite of models that operate with standard data sets, quality metrics and run rules. We describe the design and implementation of this domain-specific ML benchmark. The current benchmark version comes as a mobile app for different computer vision and natural language processing tasks. The benchmark also supports non-smartphone devices, such as laptops and mobile PCs. Benchmark results from the first two rounds reveal the overwhelming complexity of the underlying mobile ML system stack, emphasizing the need for transparency in mobile ML performance analysis. The results also show that the strides being made all through the ML stack improve performance. Within six months, offline throughput improved by 3x, while latency reduced by as much as 12x. ML is an evolving field with changing use cases, models, data sets and quality targets. MLPerf Mobile will evolve and serve as an open-source community framework to guide research and innovation for mobile AI. },
+ preview={mlperf.png}
+}

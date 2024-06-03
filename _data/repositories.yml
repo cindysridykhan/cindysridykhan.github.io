@@ -1,0 +1,9 @@
+github_users:
+  - ctrnh
+  - cindysridykhan
+
+github_repos:
+  - ctrnh/multi_player_multi_armed_bandit_algorithms 
+  - ctrnh/rank1_bandits
+# ctrnh/LinearContextualBandits
+  # - ctrnh/recommender_systems
